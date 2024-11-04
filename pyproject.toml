@@ -5,7 +5,7 @@ version = "0.1.1"
 authors = [
     { name = "Kristian Botnen", email = "kristian@botnen.org" }
 ]
-dependencies = ["random"]
+dependencies = []
 
 [build-system]
 requires = ["setuptools >= 61.0"]
