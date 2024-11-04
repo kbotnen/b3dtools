@@ -3,6 +3,7 @@ import random
 def b3d_print(message):
     print(message)
 
+
 def b3d_dicethrow(throws):
     result_array = []
     
